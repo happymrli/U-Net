@@ -1,7 +1,11 @@
 
 <a name="JwUPt"></a>
 ## 该项目使用PyTorch实现了U-Net、R2U-Net、Attention U-Net以及Attention R2U-Net等模型进行训练。同时，对这四个模型的关键参数进行了详细的分析和比较，旨在更全面地评估各个模型的优缺点。
-注：为了防止代码运行中出现路径检索错误，请将项目下载至**ISIC**文件目录之下，如下图所示<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21820237/1706884484205-ea376c7b-8bab-4ca4-891d-96fc7500d427.png#averageHue=%23fbf9f8&clientId=uffba3bf4-4186-4&from=paste&height=375&id=ud933ff88&originHeight=540&originWidth=818&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=61230&status=done&style=none&taskId=uadb96c6c-0387-47f9-82f8-be3082e2b07&title=&width=567.4000244140625)
+注1：为了防止代码运行中出现路径检索错误，请将项目下载至**ISIC**文件目录之下，如下图所示<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21820237/1706884484205-ea376c7b-8bab-4ca4-891d-96fc7500d427.png#averageHue=%23fbf9f8&clientId=uffba3bf4-4186-4&from=paste&height=375&id=ud933ff88&originHeight=540&originWidth=818&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=61230&status=done&style=none&taskId=uadb96c6c-0387-47f9-82f8-be3082e2b07&title=&width=567.4000244140625)
+
+注2：请自行创建dataset、models、result文件夹
+
+注3：模型训练文件夹为本人实验所得数据，仅供参考
 
 <a name="mufJU"></a>
 # 数据集下载
